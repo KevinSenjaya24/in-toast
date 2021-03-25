@@ -1,0 +1,124 @@
+.new-login-register .new-login-box {
+    width: 400px;
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar-default {
+    background-color: white !important;
+}
+
+.modal-content {
+    background-color: white !important;
+}
+
+.navbar-header {
+    background-color: #a6c76c !important;
+}
+
+.container-fluid {
+    background-color:rgba(253, 252, 252, 0.986) !important;
+}
+
+.container-fluid::after {
+    background-color: white !important;
+}
+
+.page-wrapper {
+    background-color: white !important;
+}
+
+.row {
+    background-color: white !important;
+}
+
+.bg-title {
+    background-color: white !important;
+}
+
+td {
+    background-color: white !important;
+    color: black !important;
+}
+
+.display {
+    background-color: white !important;
+}
+
+.white-box {
+    background-color: white !important;
+}
+
+.dash {
+    background-color: #96a2b4 !important;
+}
+
+input {
+    background-color: white !important;
+}
+
+option {
+    background-color: white !important;
+}
+
+select {
+    background-color: white !important;
+}
+
+footer {
+    background-color: #a6c76c !important;
+}
+
+.text {
+    color: white !important;
+}
+
+h3 {
+   color: white !important;
+}
+
+h5 {
+    color: black !important;
+ }
+
+.sidebar-head {
+    background-color: #a6c76c !important;
+}
+
+.panel-heading {
+    background-color: #a6c76c !important;
+}
+
+.form-body {
+    background-color: white !important;
+}
+
+.panel-wrapper {
+    background-color: white !important;
+}
+
+.selectpicker {
+    background-color: white !important;
+    color: white !important;
+}
+
+.btn-arrow {
+    background-color: #a6c76c !important;
+}
+
+.control-label {
+    color: #96a2b4 !important;
+}
+
+.black {
+    color: #96a2b4 !important;
+}
+
+.btn-approval {
+    background-color: #a6c76c !important;
+}
+
+.text-center{
+    color: white !important;
+}
